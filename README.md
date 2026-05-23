@@ -234,16 +234,16 @@ EBOOK-APP/
 # 📷 Screenshots
 
 ## 🏠 Homepage
-(Add Screenshot Here)
+
 
 ## 🛒 Cart System
-(Add Screenshot Here)
+
 
 ## 📊 Admin Dashboard
-(Add Screenshot Here)
+
 
 ## 💳 Razorpay Payment
-(Add Screenshot Here)
+
 
 ---
 
@@ -308,21 +308,6 @@ OR
 
 ---
 
-# 💼 Resume Description
-
-Developed an enterprise-style multi-vendor eCommerce marketplace using Java Servlet, JSP, JDBC, and MySQL featuring Razorpay integration, wallet management, recommendation engine, analytics dashboard, OTP authentication, CSRF protection, audit logging, and AJAX-powered real-time interactions.
-
----
-
-# 👨‍💻 Author
-
-## Bhavesh Pahuja
-
-GitHub:
-https://github.com/bhaveshh07
-
----
-
 # 🤝 Collaborator
 
 ## Tanisha Soni
@@ -334,6 +319,17 @@ Contributed to:
 - Feature workflow discussions
 - Enterprise architecture support
 - Project development assistance
+
+---
+
+# 👨‍💻 Author
+
+## Bhavesh Pahuja
+
+GitHub:
+https://github.com/bhaveshh07
+
+---
 
 # ⭐ Show Your Support
 
