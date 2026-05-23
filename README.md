@@ -231,22 +231,30 @@ EBOOK-APP/
 
 ---
 
-## 📸 Project Screenshots
+# 📸 Application Preview
 
-### 🏠 Homepage
-![Homepage](screenshots/homepage.png)
+## 🏠 Homepage
+<img width="100%" alt="Homepage" src="screenshots/homepage.png">
 
-### 🛒 Checkout Page
-![Checkout](screenshots/checkout.png)
+---
 
-### 💳 Razorpay Payment Gateway
-![Payment Gateway](screenshots/payment.png)
+## 🛒 Checkout & Coupon System
+<img width="100%" alt="Checkout" src="screenshots/checkout.png">
 
-### ✅ Payment Success
-![Payment Success](screenshots/payment-success.png)
+---
 
-### 📊 Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+## 💳 Razorpay Payment Gateway
+<img width="100%" alt="Payment Gateway" src="screenshots/payment.png">
+
+---
+
+## ✅ Payment Success Verification
+<img width="100%" alt="Payment Success" src="screenshots/payment-success.png">
+
+---
+
+## 📊 Admin Analytics Dashboard
+<img width="100%" alt="Admin Dashboard" src="screenshots/admin-dashboard.png">
 
 
 ---
