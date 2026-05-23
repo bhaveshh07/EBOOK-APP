@@ -1,0 +1,32 @@
+# Maven
+target/
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Java compiled files
+*.class
