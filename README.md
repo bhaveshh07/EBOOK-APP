@@ -231,18 +231,22 @@ EBOOK-APP/
 
 ---
 
-# 📷 Screenshots
+## 📸 Project Screenshots
 
-## 🏠 Homepage
+### 🏠 Homepage
+![Homepage](screenshots/homepage.png)
 
+### 🛒 Checkout Page
+![Checkout](screenshots/checkout.png)
 
-## 🛒 Cart System
+### 💳 Razorpay Payment Gateway
+![Payment Gateway](screenshots/payment.png)
 
+### ✅ Payment Success
+![Payment Success](screenshots/payment-success.png)
 
-## 📊 Admin Dashboard
-
-
-## 💳 Razorpay Payment
+### 📊 Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
 
 
 ---
