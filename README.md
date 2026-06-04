@@ -243,11 +243,6 @@ EBOOK-APP/
 
 ---
 
-## 💳 Razorpay Payment Gateway
-<img width="100%" alt="Payment Gateway" src="screenshots/payment.png">
-
----
-
 ## ✅ Payment Success Verification
 <img width="100%" alt="Payment Success" src="screenshots/payment-success.png">
 
